@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\bin\Debug\net10.0\c-basics-session02.exe
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\bin\Debug\net10.0\c-basics-session02.deps.json
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\bin\Debug\net10.0\c-basics-session02.runtimeconfig.json
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\bin\Debug\net10.0\c-basics-session02.runtimeconfig.dev.json
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\bin\Debug\net10.0\c-basics-session02.dll
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\bin\Debug\net10.0\c-basics-session02.pdb
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\obj\Debug\net10.0\c-basics-session02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\obj\Debug\net10.0\c-basics-session02.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\obj\Debug\net10.0\c-basics-session02.AssemblyInfo.cs
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\obj\Debug\net10.0\c-basics-session02.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\obj\Debug\net10.0\c-basics-session02.dll
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\obj\Debug\net10.0\refint\c-basics-session02.dll
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\obj\Debug\net10.0\c-basics-session02.pdb
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\obj\Debug\net10.0\c-basics-session02.genruntimeconfig.cache
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\obj\Debug\net10.0\ref\c-basics-session02.dll
+C:\Users\HP\source\repos\c-basics-session02\c-basics-session02\obj\Debug\net10.0\c-basics.327977D3.Up2Date
